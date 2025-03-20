@@ -1,5 +1,3 @@
-function sum(a, b) {
-    return a + b;
-}
+const sum = (a, b) => a + b;
 
-console.log(sum(5, 3)); // Output: 8
+console.log(sum(10, 7)); // Output: 17
